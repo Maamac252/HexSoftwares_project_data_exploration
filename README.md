@@ -8,5 +8,5 @@ In this project at HEXASOFWARES, i preproccessed data with immense cleaning and 
 - Analyse reveneu trend over time
 - the most generated revenue by product
   
-
+all my work querries.sql
   
