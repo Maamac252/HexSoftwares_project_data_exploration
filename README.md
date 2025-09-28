@@ -11,7 +11,7 @@ In this project at HEXASOFWARES, i preproccessed data with immense cleaning and 
   #INSIGHTS
   - In my depth analyses, i discovered that the month which revenues increase is February. While the least month revenues is May.
   - The tablet product was the most consumed by our customers.
-  - Reveneus change in course when the month is february going up and hence increasing the Gorgor's electronic company.
+  - Reveneus change in course when the month is february going up and hence increasing the Gorgor's electronic company revenue.
   - The tablet product was the most generated revenue and filling the first spot.
 
  
